@@ -1,7 +1,4 @@
 #include <iostream>
-int main()
-{
-    #include <iostream>
 #include <string>
 #include <sstream>
 #include <numeric>
@@ -59,5 +56,4 @@ int main() {
 
     return 0;
 
-}
 }
